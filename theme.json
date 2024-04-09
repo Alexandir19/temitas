@@ -24,7 +24,7 @@
         "YELLOW_300": "#007bff"
     },
     "background": {
-        "blur": 0.1,
+        "blur": 0.4,
         "url": "https://github.com/Alexandir19/temitas/blob/main/encounter-bg.png?raw=true",
         "alpha": 1.0
     }
