@@ -26,6 +26,6 @@
     "background": {
         "blur": 0.4,
         "url": "https://github.com/Alexandir19/temitas/blob/main/encounter-bg.png?raw=true",
-        "alpha": 1.0
+        "alpha": 0.8
     }
 }
